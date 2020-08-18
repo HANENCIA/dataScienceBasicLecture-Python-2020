@@ -1,2 +1,1 @@
-# pythonBasicLecture-Python-2020
-Python 기초 강의 자료
+# 데이터 사이언스 기초 강의 자료
